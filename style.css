@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #306073;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.logo {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+section {
+    padding: 40px;
+    font-size: 35px;
+}
+
+h2 {
+    color: #306073;
+}
+
+.servicio {
+    background-color: #F2F2F2;
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 5px solid #306073;
+}
+
+footer {
+    background-color: #306073;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
